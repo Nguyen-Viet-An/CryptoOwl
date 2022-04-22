@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/CryptoOwl/static/css/main.b4e38524.chunk.css",
+    "main.js": "/CryptoOwl/static/js/main.48442e59.chunk.js",
+    "main.js.map": "/CryptoOwl/static/js/main.48442e59.chunk.js.map",
+    "runtime-main.js": "/CryptoOwl/static/js/runtime-main.113126e7.js",
+    "runtime-main.js.map": "/CryptoOwl/static/js/runtime-main.113126e7.js.map",
+    "static/css/2.786ae0dd.chunk.css": "/CryptoOwl/static/css/2.786ae0dd.chunk.css",
+    "static/js/2.7cabcecf.chunk.js": "/CryptoOwl/static/js/2.7cabcecf.chunk.js",
+    "static/js/2.7cabcecf.chunk.js.map": "/CryptoOwl/static/js/2.7cabcecf.chunk.js.map",
+    "index.html": "/CryptoOwl/index.html",
+    "static/css/2.786ae0dd.chunk.css.map": "/CryptoOwl/static/css/2.786ae0dd.chunk.css.map",
+    "static/css/main.b4e38524.chunk.css.map": "/CryptoOwl/static/css/main.b4e38524.chunk.css.map",
+    "static/js/2.7cabcecf.chunk.js.LICENSE.txt": "/CryptoOwl/static/js/2.7cabcecf.chunk.js.LICENSE.txt",
+    "static/media/owlicon.cd44c3ae.png": "/CryptoOwl/static/media/owlicon.cd44c3ae.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.113126e7.js",
+    "static/css/2.786ae0dd.chunk.css",
+    "static/js/2.7cabcecf.chunk.js",
+    "static/css/main.b4e38524.chunk.css",
+    "static/js/main.48442e59.chunk.js"
+  ]
+}
