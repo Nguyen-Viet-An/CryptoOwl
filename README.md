@@ -1,6 +1,7 @@
 # CryptoOwl
 
-A project that I built to learn how to use APIs, request data from APIs and display them in an informative way.
+A project that I built to learn how to use APIs, request data from APIs and display them in an informative way. Deployed using Git pages.
+Visit the site here: https://nguyen-viet-an.github.io/CryptoOwl
 
 # Description
 
