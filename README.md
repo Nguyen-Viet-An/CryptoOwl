@@ -5,7 +5,7 @@ Visit the site here: https://nguyen-viet-an.github.io/CryptoOwl
 
 # Description
 
-Crypto Owl is an app that helps users find and track cryptocurrencies and the crypto market's performance quickly and effectively. It shows multiples market statistics, information on individual cryptocurrencies (price, market cap, daily change) with descriptive charts and detailed figures, and lastest crypto news on Bing. 
+Crypto Owl is an app that helps users find and track cryptocurrencies and the crypto market's performance quickly and effectively. It shows multiples live market statistics, up-to-date information on individual cryptocurrencies (price, market cap, daily change) with descriptive charts and detailed figures, and lastest crypto news on Bing. 
 
 It was created using Redux Toolkit for state management, Ant Design for beautiful UI, Chart.js for crypto price chart, and  data from Coinranking and Bing News Search APIs.
 
